@@ -31,9 +31,9 @@ droplet/
 
 ## Team
 
-- Vnukov Alexander — role
-- Pastushkova Sofya — role
-- Simakov Kirill — role
+- Vnukov Alexander — Client
+- Pastushkova Sofya — Discovery & GUI
+- Simakov Kirill — Server
 
 Course project for the AIP course, MIEM HSE University, 2026.
 
@@ -70,8 +70,8 @@ droplet/
 
 ### Команда
 
-- Внуков Александр — роль
-- Пастушкова Софья О. — роль
-- Симаков Кирилл С. — роль
+- Внуков Александр — Клиентская часть
+- Пастушкова Софья О. — Обнаружение и интерфейс
+- Симаков Кирилл С. — Серверная часть
 
 Учебный проект по предмету «АИП», МИЭМ НИУ ВШЭ, 2026.
